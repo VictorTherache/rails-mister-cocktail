@@ -1,7 +1,11 @@
 {
   "name": "rails-mister-cocktail",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  },
   "devDependencies": {
     "webpack-dev-server": "^3.10.3"
   }
